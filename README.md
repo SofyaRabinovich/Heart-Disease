@@ -93,14 +93,14 @@ The dataset contains 14 variables:
  
 All patients names and identification numbers were removed due to Data Protection Act.
 
-![Correlation of variables](Correlation.png)
+![Correlation of variables](images/Correlation.png)
 <figcaption align = "center"><b>Fig.1 - Correlation of variables with each other. Target (Heart Disease) strongly correlates with maximum heart rate (thalach) and the slope of the peak exercise ST segment (slope).</b></figcaption>
 
-![Maximum Heart Rate and Heart Disease](max-heart-rate.png)
+![Maximum Heart Rate and Heart Disease](images/max-heart-rate.png)
 <figcaption align = "center"><b>Fig.2 - The higher the maximum heart rate achieved the higher chance of getting a heart disease. Increased heart rate is strongly associated with coronary heart disease.</b></figcaption>
 
 The lowest correlation was seen between the target and the exercise induced angina (exang) (Fig. 1).
-![Exercise induced angina](Exang.png)
+![Exercise induced angina](images/Exang.png)
 <figcaption align = "center"><b>Fig.3 - Angina can appear in the response to the physical activity, emotional stress, or exposure to cold temperatures, or after big meals. Therefore, there is small correlation between Heart Disease and Angina, however, angina is the symptom of the heart disease.</b></figcaption>
 
 <a name="methods"></a>
