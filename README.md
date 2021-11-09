@@ -73,6 +73,6 @@ The dataset contains 14 variables:
  
 All patients names and identification numbers were removed due to Data Protection Act.
 
-![Variables correlation](/Users/sofyarabinovich/Desktop/Programming/R-professional-certificate/Heart Diseae/Correlation.png)
+![](/Users/sofyarabinovich/Desktop/Programming/R-professional-certificate/Heart Diseae/Correlation.png)
 
 
