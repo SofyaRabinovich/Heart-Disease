@@ -24,12 +24,13 @@ Many risk factors lead to the development of the CVD:
 
 When a person comes to the doctor, the first step is the risk assessment, where a GP asks about your medical and family history, checks blood pressure, and does a blood test to check the cholesterol levels. Any further tests include: ECG, exercise stress test, X-rays, echocardiogram, coronary angiography, radionuclide tests, MRI scans, CT scans. 
 
-<p align="center">Aim of the project is to train different machine learning algorithms and assess their accuracy. 
+# Aim of the project
+To visualise data and train different machine learning algorithms (MLAs) and assess their accuracy. 
 
-Objectives: 
+# Objectives: 
 
 1. Investigate correlation between variables
 
 2. Divide data into training and test sets
 
-3. Train MLAs</p>
+3. Train MLAs
