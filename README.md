@@ -72,6 +72,7 @@ The dataset contains 14 variables:
  13.Thalassemia: 3 = normal; 6 = fixed defect; 7 = reversible defect
  
 All patients names and identification numbers were removed due to Data Protection Act.
-![Variables correlation](/Users/sofyarabinovich/Desktop/Programming/R-professional-certificate/Heart Diseae)
+
+![Variables correlation](/Users/sofyarabinovich/Desktop/Programming/R-professional-certificate/Heart Diseae/Correlation.png)
 
 
